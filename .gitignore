@@ -1,0 +1,11 @@
+gradlew.bat
+HELP.md
+gradmew
+build.gradle
+.gradle/
+.idea 
+.vscode
+gradle/
+application.properties
+problems-report.html
+settings.gradle 
